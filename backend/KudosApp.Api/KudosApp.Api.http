@@ -1,0 +1,6 @@
+@KudosApp.Api_HostAddress = http://localhost:5168
+
+GET {{KudosApp.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
