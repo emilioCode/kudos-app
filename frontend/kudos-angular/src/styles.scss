@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'primeicons/primeicons.css';
+
+a[pButton] {
+  text-decoration: none !important;
+}
+
+.p-password {
+  width: 100%;
+  
+  input {
+    width: 100%;
+  }
+}
